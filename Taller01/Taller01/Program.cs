@@ -25,6 +25,9 @@ try
         Console.WriteLine($"\tAdd        : {time.Add(t3), 15:N0}");
         Console.WriteLine($"\tIsOtherDay : {time.IsOtherDay(t4)}");
         Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
     }
 
     var t6 = new Time(45, 7, 90, -87);
